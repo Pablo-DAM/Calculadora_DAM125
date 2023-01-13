@@ -1,5 +1,5 @@
 
-package ud3.calculadora_alvarodc;
+package ejercicios.ejercicio;
 
 import java.util.Scanner;
 
